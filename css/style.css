@@ -10,7 +10,7 @@ body{
 
 
 .first{
-    background-image: url(../css/img/pattern.png);
+    background-image: url(img/pattern.png);
     height: 100px;
     background-size: contain;
     background-color: rgb(0, 183, 255);
